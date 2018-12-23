@@ -13,8 +13,8 @@
 ### The project is broken down into multiple steps:
 
 * Load and preprocess the image dataset. 
-* Train the image classifier on your dataset - `train.py` is a script that trains a deep neural network on the given data directory, with command-line options.
-* Use the trained classifier to predict image content - `predict.py` is a script that predicts the flower name from an image, along with the probability of that name, given a trained classifier.
+* Train the image classifier on your dataset - [`train.py`](https://github.com/hassifow/PyTorch-Image-Classifier/blob/master/train.py) is a script that trains a deep neural network on the given data directory, with command-line options.
+* Use the trained classifier to predict image content - [`predict.py`](https://github.com/hassifow/PyTorch-Image-Classifier/blob/master/predict.py) is a script that predicts the flower name from an image, along with the probability of that name, given a trained classifier.
 
 ### Dependencies
 
